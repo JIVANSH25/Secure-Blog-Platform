@@ -6,8 +6,8 @@ A production-ready full-stack blog platform built with **Next.js, NestJS, Postgr
 
 ## 🚀 Live Demo
 
-* **Frontend (Vercel):** []()
-* **Backend (Render):** []()
+* **Frontend (Vercel):** [https://secure-blog-platform-wine.vercel.app/](https://secure-blog-platform-wine.vercel.app/)
+* **Backend (Render):** [https://secure-blog-platform-1.onrender.com](https://secure-blog-platform-1.onrender.com)
 
 ---
 
@@ -220,7 +220,7 @@ Tradeoff:
 ## 1️⃣ Clone Repo
 
 ```bash
-git clone https://github.com/mehaktewari/Secure-Blog-Platform
+git clone https://github.com/JIVANSH25/Secure-Blog-Platform
 ```
 
 ---
